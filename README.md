@@ -1,4 +1,6 @@
 # AutocompleteNGram
 Autocomplete Project with NGram Model
-Hadoop
+
+Hadoop, mySQL
+
 WebUI will be included later
